@@ -88,13 +88,7 @@ status:   Open to Work
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28"/> Problem Solving
 
-<div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/abdulrahmanfikry1?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/abdulrahmanfikry1/)
-
-<a href="https://codeforces.com/profile/ABDULRAHMANFIKRY0"><img src="https://raw.githubusercontent.com/abdulrahman11a/abdulrahman11a/main/assets/codeforces.svg" height="32" alt="Codeforces ABDULRAHMANFIKRY0"/></a>
-
-</div>
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
 
